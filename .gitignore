@@ -1,0 +1,6 @@
+*.cache
+.env
+.venv
+flask_session/
+*__pycache__/
+.git

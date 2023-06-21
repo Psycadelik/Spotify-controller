@@ -1,0 +1,774 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+            },
+            "href": "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+            "id": "3jOstUTkEu2JkjvRdBA5Gu",
+            "name": "Weezer",
+            "type": "artist",
+            "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+        },
+        "href": "https://api.spotify.com/v1/albums/2OBSz5Nlto0Q5CtYPzPY7c",
+        "id": "2OBSz5Nlto0Q5CtYPzPY7c",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731e0dc5baaabda304b0ad1815",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021e0dc5baaabda304b0ad1815",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511e0dc5baaabda304b0ad1815",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Weezer",
+        "release_date": "2001-05-15",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:2OBSz5Nlto0Q5CtYPzPY7c"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          },
+          "href": "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+          "id": "3jOstUTkEu2JkjvRdBA5Gu",
+          "name": "Weezer",
+          "type": "artist",
+          "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 200306,
+      "explicit": false,
+      "external_ids": { "isrc": "USIR10110358" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2MLHyLy5z5l5YRp7momlgw",
+      "id": "2MLHyLy5z5l5YRp7momlgw",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Island In The Sun",
+      "popularity": 82,
+      "preview_url": null,
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:2MLHyLy5z5l5YRp7momlgw"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+            },
+            "href": "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+            "id": "3jOstUTkEu2JkjvRdBA5Gu",
+            "name": "Weezer",
+            "type": "artist",
+            "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+        },
+        "href": "https://api.spotify.com/v1/albums/1xpGyKyV26uPstk1Elgp9Q",
+        "id": "1xpGyKyV26uPstk1Elgp9Q",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273345536847e60f622ee0eae96",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02345536847e60f622ee0eae96",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851345536847e60f622ee0eae96",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Weezer",
+        "release_date": "1994-05-10",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          },
+          "href": "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+          "id": "3jOstUTkEu2JkjvRdBA5Gu",
+          "name": "Weezer",
+          "type": "artist",
+          "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 258826,
+      "explicit": false,
+      "external_ids": { "isrc": "USGF19962907" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6VoIBz0VhCyz7OdEoRYDiA",
+      "id": "6VoIBz0VhCyz7OdEoRYDiA",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Say It Ain't So",
+      "popularity": 78,
+      "preview_url": null,
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:6VoIBz0VhCyz7OdEoRYDiA"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+            },
+            "href": "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+            "id": "3jOstUTkEu2JkjvRdBA5Gu",
+            "name": "Weezer",
+            "type": "artist",
+            "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+        },
+        "href": "https://api.spotify.com/v1/albums/1xpGyKyV26uPstk1Elgp9Q",
+        "id": "1xpGyKyV26uPstk1Elgp9Q",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273345536847e60f622ee0eae96",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02345536847e60f622ee0eae96",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851345536847e60f622ee0eae96",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Weezer",
+        "release_date": "1994-05-10",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          },
+          "href": "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+          "id": "3jOstUTkEu2JkjvRdBA5Gu",
+          "name": "Weezer",
+          "type": "artist",
+          "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 159226,
+      "explicit": false,
+      "external_ids": { "isrc": "USGF19562907" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3mwvKOyMmG77zZRunnxp9E",
+      "id": "3mwvKOyMmG77zZRunnxp9E",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Buddy Holly",
+      "popularity": 77,
+      "preview_url": null,
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:3mwvKOyMmG77zZRunnxp9E"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+            },
+            "href": "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+            "id": "3jOstUTkEu2JkjvRdBA5Gu",
+            "name": "Weezer",
+            "type": "artist",
+            "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz"
+        },
+        "href": "https://api.spotify.com/v1/albums/4D8A8M0NJjEdQhusawyeDz",
+        "id": "4D8A8M0NJjEdQhusawyeDz",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a9def696688b8353ad8511ad",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a9def696688b8353ad8511ad",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a9def696688b8353ad8511ad",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Make Believe",
+        "release_date": "2005-05-10",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:4D8A8M0NJjEdQhusawyeDz"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          },
+          "href": "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+          "id": "3jOstUTkEu2JkjvRdBA5Gu",
+          "name": "Weezer",
+          "type": "artist",
+          "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 196093,
+      "explicit": false,
+      "external_ids": { "isrc": "USIR10500448" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1yKu2MhpwzDXXH2tzG6xoa",
+      "id": "1yKu2MhpwzDXXH2tzG6xoa",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Beverly Hills",
+      "popularity": 74,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1yKu2MhpwzDXXH2tzG6xoa"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+            },
+            "href": "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+            "id": "3jOstUTkEu2JkjvRdBA5Gu",
+            "name": "Weezer",
+            "type": "artist",
+            "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+        },
+        "href": "https://api.spotify.com/v1/albums/1xpGyKyV26uPstk1Elgp9Q",
+        "id": "1xpGyKyV26uPstk1Elgp9Q",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273345536847e60f622ee0eae96",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02345536847e60f622ee0eae96",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851345536847e60f622ee0eae96",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Weezer",
+        "release_date": "1994-05-10",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          },
+          "href": "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+          "id": "3jOstUTkEu2JkjvRdBA5Gu",
+          "name": "Weezer",
+          "type": "artist",
+          "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 305533,
+      "explicit": false,
+      "external_ids": { "isrc": "USGF19962905" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5WhtlIoxoZrMmuaWWEQhwV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5WhtlIoxoZrMmuaWWEQhwV",
+      "id": "5WhtlIoxoZrMmuaWWEQhwV",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Undone - The Sweater Song",
+      "popularity": 72,
+      "preview_url": null,
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:5WhtlIoxoZrMmuaWWEQhwV"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+            },
+            "href": "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+            "id": "3jOstUTkEu2JkjvRdBA5Gu",
+            "name": "Weezer",
+            "type": "artist",
+            "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+        },
+        "href": "https://api.spotify.com/v1/albums/2OBSz5Nlto0Q5CtYPzPY7c",
+        "id": "2OBSz5Nlto0Q5CtYPzPY7c",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731e0dc5baaabda304b0ad1815",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021e0dc5baaabda304b0ad1815",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511e0dc5baaabda304b0ad1815",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Weezer",
+        "release_date": "2001-05-15",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:2OBSz5Nlto0Q5CtYPzPY7c"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          },
+          "href": "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+          "id": "3jOstUTkEu2JkjvRdBA5Gu",
+          "name": "Weezer",
+          "type": "artist",
+          "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 186533,
+      "explicit": false,
+      "external_ids": { "isrc": "USIR10110319" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2mPMFJvQ0v27gVqe5b6nDn",
+      "id": "2mPMFJvQ0v27gVqe5b6nDn",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Hash Pipe",
+      "popularity": 71,
+      "preview_url": null,
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:2mPMFJvQ0v27gVqe5b6nDn"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+            },
+            "href": "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+            "id": "3jOstUTkEu2JkjvRdBA5Gu",
+            "name": "Weezer",
+            "type": "artist",
+            "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
+        },
+        "href": "https://api.spotify.com/v1/albums/56LtTJnIBlgf4obkP13Skz",
+        "id": "56LtTJnIBlgf4obkP13Skz",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b34530ac4a80275e3ff2faab",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b34530ac4a80275e3ff2faab",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b34530ac4a80275e3ff2faab",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Pinkerton - Deluxe Edition",
+        "release_date": "1996-09-24",
+        "release_date_precision": "day",
+        "total_tracks": 36,
+        "type": "album",
+        "uri": "spotify:album:56LtTJnIBlgf4obkP13Skz"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          },
+          "href": "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+          "id": "3jOstUTkEu2JkjvRdBA5Gu",
+          "name": "Weezer",
+          "type": "artist",
+          "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 157960,
+      "explicit": false,
+      "external_ids": { "isrc": "USUM71021458" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/35SRuRfp5BvD1yArmXKNHO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/35SRuRfp5BvD1yArmXKNHO",
+      "id": "35SRuRfp5BvD1yArmXKNHO",
+      "is_local": false,
+      "is_playable": true,
+      "name": "I Just Threw Out The Love Of My Dreams",
+      "popularity": 68,
+      "preview_url": null,
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:35SRuRfp5BvD1yArmXKNHO"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+            },
+            "href": "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+            "id": "3jOstUTkEu2JkjvRdBA5Gu",
+            "name": "Weezer",
+            "type": "artist",
+            "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ"
+        },
+        "href": "https://api.spotify.com/v1/albums/6v8wNjiQDhDijoapXXZ9mZ",
+        "id": "6v8wNjiQDhDijoapXXZ9mZ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273464da76fa0e1570e1844b622",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02464da76fa0e1570e1844b622",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851464da76fa0e1570e1844b622",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Weezer",
+        "release_date": "2008-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 14,
+        "type": "album",
+        "uri": "spotify:album:6v8wNjiQDhDijoapXXZ9mZ"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          },
+          "href": "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+          "id": "3jOstUTkEu2JkjvRdBA5Gu",
+          "name": "Weezer",
+          "type": "artist",
+          "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 189400,
+      "explicit": false,
+      "external_ids": { "isrc": "USUM70811232" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7wclPheMJAUKn2njmO2s3A"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7wclPheMJAUKn2njmO2s3A",
+      "id": "7wclPheMJAUKn2njmO2s3A",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Pork And Beans",
+      "popularity": 63,
+      "preview_url": null,
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:7wclPheMJAUKn2njmO2s3A"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+            },
+            "href": "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+            "id": "3jOstUTkEu2JkjvRdBA5Gu",
+            "name": "Weezer",
+            "type": "artist",
+            "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+        },
+        "href": "https://api.spotify.com/v1/albums/1xpGyKyV26uPstk1Elgp9Q",
+        "id": "1xpGyKyV26uPstk1Elgp9Q",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273345536847e60f622ee0eae96",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02345536847e60f622ee0eae96",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851345536847e60f622ee0eae96",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Weezer",
+        "release_date": "1994-05-10",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          },
+          "href": "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+          "id": "3jOstUTkEu2JkjvRdBA5Gu",
+          "name": "Weezer",
+          "type": "artist",
+          "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 204293,
+      "explicit": false,
+      "external_ids": { "isrc": "USGF19962901" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4nzyOwogJuWn1s6QuGFZ6w"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4nzyOwogJuWn1s6QuGFZ6w",
+      "id": "4nzyOwogJuWn1s6QuGFZ6w",
+      "is_local": false,
+      "is_playable": true,
+      "name": "My Name Is Jonas",
+      "popularity": 64,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4nzyOwogJuWn1s6QuGFZ6w"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+            },
+            "href": "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+            "id": "3jOstUTkEu2JkjvRdBA5Gu",
+            "name": "Weezer",
+            "type": "artist",
+            "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+            },
+            "href": "https://api.spotify.com/v1/artists/6s22t5Y3prQHyaHWUN1R1C",
+            "id": "6s22t5Y3prQHyaHWUN1R1C",
+            "name": "AJR",
+            "type": "artist",
+            "uri": "spotify:artist:6s22t5Y3prQHyaHWUN1R1C"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1FXt1CeMXHBlJ1AdvzaC5H"
+        },
+        "href": "https://api.spotify.com/v1/albums/1FXt1CeMXHBlJ1AdvzaC5H",
+        "id": "1FXt1CeMXHBlJ1AdvzaC5H",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27352004504b4600d0293d2eb57",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0252004504b4600d0293d2eb57",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485152004504b4600d0293d2eb57",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "All My Favorite Songs (feat. AJR)",
+        "release_date": "2021-05-12",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:1FXt1CeMXHBlJ1AdvzaC5H"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          },
+          "href": "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+          "id": "3jOstUTkEu2JkjvRdBA5Gu",
+          "name": "Weezer",
+          "type": "artist",
+          "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+          },
+          "href": "https://api.spotify.com/v1/artists/6s22t5Y3prQHyaHWUN1R1C",
+          "id": "6s22t5Y3prQHyaHWUN1R1C",
+          "name": "AJR",
+          "type": "artist",
+          "uri": "spotify:artist:6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 170720,
+      "explicit": false,
+      "external_ids": { "isrc": "USAT22102059" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3A6nR4GSolo160nu7xtDk7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3A6nR4GSolo160nu7xtDk7",
+      "id": "3A6nR4GSolo160nu7xtDk7",
+      "is_local": false,
+      "is_playable": true,
+      "name": "All My Favorite Songs (feat. AJR)",
+      "popularity": 63,
+      "preview_url": "https://p.scdn.co/mp3-preview/715e436884273727ff1c2d054baa962d78829c8a?cid=60a3a2c8af764d0dba8d3714327fbb74",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3A6nR4GSolo160nu7xtDk7"
+    }
+  ]
+}
