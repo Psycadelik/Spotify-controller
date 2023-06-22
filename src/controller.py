@@ -29,7 +29,6 @@ def add_tracks_to_playlist(spotify, playlist_id, tracks):
 
 
 if __name__ == "__main__":
-    # fixme: use environment variables
     spotify_client_id = config["SPOTIFY_CLIENT_ID"]
     spotify_client_secret = config["SPOTIFY_CLIENT_SECRET"]
     callback_url = config["SPOTIFY_CALLBACK_URL"]
