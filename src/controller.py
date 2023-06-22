@@ -34,7 +34,7 @@ if __name__ == "__main__":
     spotify_client_secret = config["SPOTIFY_CLIENT_SECRET"]
     callback_url = config["SPOTIFY_CALLBACK_URL"]
     scope = "playlist-modify-public"
-    playlist_id = "41FBcoRqU7SF0acoIxyfgV"
+    playlist_id = config["SPOTIFY_PLAYLIST_ID"]
 
     spotify = spotipy.Spotify(
         auth_manager=SpotifyOAuth(
