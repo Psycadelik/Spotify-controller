@@ -24,8 +24,8 @@ def get_artist_top_tracks_ids(spotify, artist_id):
     return [track["id"] for track in top_tracks["tracks"]]
 
 
-def add_tracks_to_playlist(spotify, playlist_id, tracks):
-    return spotify.playlist_add_items(playlist_id, tracks)
+def add_tracks_to_playlist(spotify, playlist_id, track_ids):
+    return spotify.playlist_add_items(playlist_id, track_ids)
 
 
 if __name__ == "__main__":
